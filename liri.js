@@ -52,7 +52,7 @@ if(func === 'concert-this') {
 
 // Calls on bands in town API and returns concert information about the artist a user inputs
 function concert(entry) {
-    console.log(entry)
+    //console.log(entry)
     var moment = require("moment");
     var text = "";
 
@@ -63,7 +63,7 @@ function concert(entry) {
         } else {
             var result = JSON.parse(body)[0];
 
-            console.log(result)
+            //console.log(result)
             console.log("Venue name: " + result.venue.name);
             console.log("Location: " + result.venue.city + ", " + result.venue.region + ", " + result.venue.country );
             console.log(moment(result.datetime).format("MM/DD/YYYY"));
