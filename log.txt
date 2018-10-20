@@ -26,15 +26,15 @@ Venue name: Santa Barbara Bowl
 Location: Santa Barbara, CA, United States
 10/19/2018
 
-tVenue name: Santa Barbara Bowl
+Venue name: Santa Barbara Bowl
 Location: Santa Barbara, CA, United States
 10/19/2018
 
-tVenue name: Santa Barbara Bowl
+Venue name: Santa Barbara Bowl
 Location: Santa Barbara, CA, United States
 10/19/2018
 
-tArtist: Drake
+Artist: Drake
 Hotline Bling
 Views
 
