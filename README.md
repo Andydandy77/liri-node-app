@@ -11,7 +11,6 @@ To search shows for a band the user needs to type in the command line:
 
 ``` 
 node liri.js concert-this (Artist Name)
-
 ```
 
 Once the user submits this request:
@@ -22,7 +21,6 @@ To search a song and its information the user needs to type in the command line:
 
 ``` 
 node liri.js spotify-this-song (Song Name)
-
 ```
 Once the user submits this request:
 
@@ -36,7 +34,6 @@ To search a movie and its information the user needs to type in the command line
 
 ``` 
 node liri.js movie-this (Movie Name)
-
 ```
 Once the user submits this request:
 
